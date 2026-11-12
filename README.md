@@ -1,4 +1,4 @@
-# NETWORKWALKS-B084D-WK2--CYBERSECURITY-LAB-SETUP-
+# NETWORKWALKS-B084D-WK2--CYBERSECURITY-LAB FOR RECONANCE-SETUP-
  
 
 PROJECT OBJECTIVITES
@@ -9,7 +9,6 @@ The following are the objectivates of the project.
 
 The Lab provides the a secure environment for carrying out Cybersecurity secure testing for the following
 
-Port scanning
 Network Reconance
 Malware creation
 Packet analysis
