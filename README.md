@@ -1,9 +1,12 @@
 # NETWORKWALKS-B084D-WK2--CYBERSECURITY-LAB FOR RECONANCE-SETUP-
- 
+  This project was carried out as a lab to carryout a Resonance on the company Network walks the project had two parts;
+
+  1 RECONANCE 
+  2 NETWORK SCAN 
 
 PROJECT OBJECTIVITES
 
-n this lab l footprint the live website networkwalks.com using six built-in Kali Linux tools:
+n this lab  1  l footprinted the live website networkwalks.com using six built-in Kali Linux tools:
 whois, whatweb, nslookup, curl, wafw00f and dnsrecon. Each tool reveals a different piece of the target, and together they build a full profile of it. The information l  gather here is the foundation for everything that follows. In the next projects/tasks you will use these same findings to plan your scanning and your attacks, because you cannot attack what you have not first understood. Record every output carefully, as you will need it for your final report.
 The following are the objectivates of the project.
 
@@ -19,7 +22,7 @@ LAB CONFIGURATION
 
 COMPUTER ---- HP HOST OS ---- WINDOWS 10 HOST RAM ---- 16GB PROCCESSOR ---- Intel core i5 Hypervisor----- Virtual-box and VMWare  Security OS ---- KALI LINUX KALI RAM ------ 2048 MB VIRTUAL WINDOWS ADDRESS  192.168.142,132/24  DEFLAUT GATEWAY ----- 192.168.142.2 DNS SERVER --- 8.8.8.8  
 
-LAB SET-UP PROCCEDURE
+LAB SET-UP PROCCEDURE   ( FOR THE RECONANCE) 
 
 Task 1. Run whois to find the domain registration details.
 Task 2. Run whatweb to fingerprint the web technologies.
@@ -27,6 +30,17 @@ Task 3. Run nslookup to resolve the domain to its IP address.
 Task 4. Run curl -I to read the HTTP response headers.
 Task 5. Run wafw00f to detect a Web Application Firewall.
 Task 6. Run dnsrecon to enumerate all DNS records.
+
+LAB SET-UP PROCCEDURE   ( FOR THE ZENMAP) 
+
+Task1 Download & install Zenmap from official website on your Windows PC 
+Task2 Find your local IP address & your LAN subnet
+Task3 Find the list of live hosts/PC’s in your IP subnet
+Task4 How many hosts are live in your subnet?
+Task5 What are the IP addresses of the live hosts?
+Task6 What are the MAC addresses of the live hosts?
+Task7 Display & save the output topology in PDF Format on your desktop
+
 
 PROBLEMS ENCOUNTERED DURING THE LAB
 
